@@ -1,0 +1,12 @@
+C:\Users\NECIP\Desktop\Mentor\ServerApp\entity\bin\Debug\net5.0\entity.deps.json
+C:\Users\NECIP\Desktop\Mentor\ServerApp\entity\bin\Debug\net5.0\entity.dll
+C:\Users\NECIP\Desktop\Mentor\ServerApp\entity\bin\Debug\net5.0\ref\entity.dll
+C:\Users\NECIP\Desktop\Mentor\ServerApp\entity\bin\Debug\net5.0\entity.pdb
+C:\Users\NECIP\Desktop\Mentor\ServerApp\entity\obj\Debug\net5.0\entity.csprojAssemblyReference.cache
+C:\Users\NECIP\Desktop\Mentor\ServerApp\entity\obj\Debug\net5.0\entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NECIP\Desktop\Mentor\ServerApp\entity\obj\Debug\net5.0\entity.AssemblyInfoInputs.cache
+C:\Users\NECIP\Desktop\Mentor\ServerApp\entity\obj\Debug\net5.0\entity.AssemblyInfo.cs
+C:\Users\NECIP\Desktop\Mentor\ServerApp\entity\obj\Debug\net5.0\entity.csproj.CoreCompileInputs.cache
+C:\Users\NECIP\Desktop\Mentor\ServerApp\entity\obj\Debug\net5.0\entity.dll
+C:\Users\NECIP\Desktop\Mentor\ServerApp\entity\obj\Debug\net5.0\ref\entity.dll
+C:\Users\NECIP\Desktop\Mentor\ServerApp\entity\obj\Debug\net5.0\entity.pdb
